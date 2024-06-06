@@ -2,7 +2,9 @@
 
 
 Table of contents: 
+
 WeatherPy: https://github.com/redpandata19/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb
+
 VacationPy: https://github.com/redpandata19/python-api-challenge/blob/main/WeatherPy/VacationPy.ipynb
 
 UNC Bootcamp:
